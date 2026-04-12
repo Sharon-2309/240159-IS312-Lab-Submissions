@@ -1,7 +1,7 @@
 <?php
 /*
-Author: YOUR NAME
-Date: 22 March 2025
+Author: Sharon PETER
+Date: 16 March 2025
 Unit: IS312 Web Application Development
 */
 $conn = new mysqli("localhost","root","","FRU10");
